@@ -25,7 +25,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/devjujuba/devjujuba/output/snake.svg" alt="Snake animation" />
-
-###
